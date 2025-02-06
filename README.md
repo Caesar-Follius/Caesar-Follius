@@ -1,5 +1,5 @@
 - 👋 Salve, my name is Julio ou mais conhecido como Caesar! (meu sobrenome).
-- 👀 Eu querom muito aprender mais sobre programação e tudo mais sobre tecnologia dentre outras coisas
+- 👀 Eu quero muito aprender mais sobre programação e tudo mais sobre tecnologia dentre outras coisas
 -  eu tenho algumas ideias artisticas e acho que posso unir o humano com a maquina!!!
 - 🌱 To começando no HTML (por isso que esse README é mei paia) e quero aprender outras linguagens, quais? não sei, mas quero descobrir.
 - 😄 Pronomes: Royal/Enfield
